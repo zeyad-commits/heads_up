@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+!tools/__pycache__/smoke_test.cpython-312-pytest-9.2.0.pyc

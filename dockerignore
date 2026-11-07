@@ -1,0 +1,9 @@
+# Files the bot does not need while playing (keeps the image small).
+.git
+**/__pycache__
+*.pyc
+training/
+checkpoints/
+tests/
+baseline-bots/
+*.json.log
